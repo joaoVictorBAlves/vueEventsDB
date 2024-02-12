@@ -1,0 +1,34 @@
+{
+    "events": [
+        {
+            "id": 5928101,
+            "category": "Music",
+            "title": "Concert in the Park",
+            "description": "Join us for an evening of live music in the park.",
+            "date": "January 28 2022",
+            "time": "7:00 PM",
+            "petsAllowed": false,
+            "location": "Central Park"
+        },
+        {
+            "id": 5928102,
+            "category": "Food",
+            "title": "Food Truck Rally",
+            "description": "A variety of food trucks will be serving up delicious food.",
+            "date": "February 15 2022",
+            "time": "11:00 AM",
+            "petsAllowed": true,
+            "location": "Downtown"
+        },
+        {
+            "id": 5928103,
+            "category": "Art",
+            "title": "Art in the Park",
+            "description": "Local artists will be displaying their work in the park.",
+            "date": "March 10 2022",
+            "time": "10:00 AM",
+            "petsAllowed": true,
+            "location": "Central Park"
+        }
+    ]
+}
